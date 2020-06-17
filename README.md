@@ -87,6 +87,12 @@ Employers of computing graduates will expect Git skills, and a Github or similar
 
 
 
+## Github Pages
+
+Note - you can use this for free website hosting (HTML/CSS/JS ...)
+
+![pages](images/18_pages.png)
+
 ## Github Education pack
 
 ![edu](images/14_education.png)
