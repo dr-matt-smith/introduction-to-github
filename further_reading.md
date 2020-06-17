@@ -50,6 +50,10 @@ Git tower - Git Cheatsheet
 
 - https://www.git-tower.com/learn/cheat-sheets/git
 
+Github's Git cheatsheet:
+
+- https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+
 
 ## Gitpod
 
