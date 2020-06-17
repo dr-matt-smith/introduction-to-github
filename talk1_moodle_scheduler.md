@@ -12,7 +12,7 @@ Here is an example for fictional student **Fred Smith**:
 
 ## Advantages
 
-It removes all the multiple emmails / Doodle pools etc. to arrange a meeting with students. 
+It removes all the multiple emails / Doodle pools etc. to arrange a meeting with students. 
 
 I create timeslots on days/times I'm available, and let students sign up to the one they find most convenient.
 
