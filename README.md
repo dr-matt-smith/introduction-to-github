@@ -90,3 +90,7 @@ Employers of computing graduates will expect Git skills, and a Github or similar
 ## Github Education pack
 
 ![edu](images/14_education.png)
+
+## This talk - uploaded to Github for sharing ..
+
+![upload](images/17_uploaded.png)
