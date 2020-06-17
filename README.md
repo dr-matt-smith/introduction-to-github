@@ -1,4 +1,4 @@
-# Talk 1: Introduction to Github
+# Talk 2: Introduction to Github
 
 ## Today's talk is about Github (not Git)
 
