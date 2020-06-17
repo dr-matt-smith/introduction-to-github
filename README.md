@@ -100,3 +100,7 @@ Note - you can use this for free website hosting (HTML/CSS/JS ...)
 ## This talk - uploaded to Github for sharing ..
 
 ![upload](images/17_uploaded.png)
+
+## ... if you  want to learn more ...
+
+[next steps](further_reading.md)
