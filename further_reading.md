@@ -45,14 +45,8 @@ Learn git branching
 
   - http://learngitbranching.js.org/
 
-## Git Cheat sheets
 
-Github
-
-- https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-
-
-Git tower
+Git tower - Git Cheatsheet
 
 - https://www.git-tower.com/learn/cheat-sheets/git
 
